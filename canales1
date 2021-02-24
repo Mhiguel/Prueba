@@ -1,0 +1,600 @@
+NACIONALES
+
+#EXTINF:-1 tvg-name="COL - CABLENOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png",CABLENOTICIAS
+http://tv.cablestream.io:8080/noelia/1234/2119
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CARACOL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png", CARACOL HD
+http://tv.cablestream.io:8080/noelia/1234/3213
+#EXTINF:-1 tvg-name="" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://www.caracoltv.com/sites/default/files/caracoltv_logo_200.png" , CARACOL
+http://tv.cablestream.io:8080/noelia/1234/4094
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="COL - CITYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png",CITYTV
+http://tv.cablestream.io:8080/noelia/1234/1987
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN" tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png",RCN
+http://tv.cablestream.io:8080/noelia/1234/4002
+#EXTINF:-1 tvg-id="RCN.co" tvg-name="COL - RCN HD" tvg-logo="http://www.canalrcn.com/sites/all/themes/canalrcn/images/ico180x180.png",RCN HD
+http://tv.cablestream.io:8080/noelia/1234/3415
+#EXTINF:-1 tvg-name="COL - RCN NOVELAS HD" tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png",RCN NOVELAS HD
+http://tv.cablestream.io:8080/noelia/1234/2125
+#EXTINF:-1 tvg-name="COL - SEÑAL COLOMBIA" tvg-logo="http://rtvc-assets-sistemasenalcolombia.gov.co.s3.amazonaws.com/images/stories/logosenalctv.jpg" ,SEÑAL COLOMBIA
+http://tv.cablestream.io:8080/noelia/1234/2163
+#EXTINF:-1 tvg-name="COL - TELECAFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Telecafe2017.png",TELECAFE
+http://tv.cablestream.io:8080/noelia/1234/2128
+#EXTINF:-1 tvg-name="COL - TELEPACIFICO (test)" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2016/12/logo.png",TELEPACIFICO
+http://tv.cablestream.io:8080/noelia/1234/47693
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="COL - TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" ,TELECARIBE
+http://tv.cablestream.io:8080/noelia/1234/43625
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="COL - TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" ,TELECARIBE DEPORTES
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="COL - TELEANTIOQUIA" tvg-logo="http://www.mediafire.com/convkey/858d/xi3c6kq1qkc4xhezg.jpg",TELEANTIOQUIA
+http://tv.cablestream.io:8080/noelia/1234/2118
+#EXTINF:-1 tvg-name="COL - NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",NTN 24
+http://tv.cablestream.io:8080/noelia/1234/41815
+#EXTINF:-1 tvg-name="COL - WIN SPORTS + SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/WinSportsM%C3%A1s.png" ,WIN SPORTS+ 
+http://tv.cablestream.io:8080/noelia/1234/16723
+
+VARIOS DISCOVERY
+
+
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="MyC - ANIMAL PLANET" tvg-logo="http://cdn-std-1.sibasa.netdna-cdn.com/co/a4609b184b2e592475a5d72b7cecf53b.jpg" , ANIMAL PLANET
+http://tv.cablestream.io:8080/noelia/1234/3247
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="MyC - DISCOVERY  HOME & HEALTH" tvg-logo="http://www.mediafire.com/convkey/04c8/5d9ej3quhr5lob7zg.jpg" , DISCOVERY  HOME & HEALTH
+http://tv.cablestream.io:8080/noelia/1234/3083
+#EXTINF:-1,DISCOVERY CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/3251
+#EXTINF:-1,HGTV
+http://tv.cablestream.io:8080/noelia/1234/3252
+#EXTINF:-1,DISCOVERY ID
+http://tv.cablestream.io:8080/noelia/1234/4123
+#EXTINF:-1,DISCOVERY SCIENCE
+http://tv.cablestream.io:8080/noelia/1234/3082
+#EXTINF:-1,DISCOVERY THEATER
+http://tv.cablestream.io:8080/noelia/1234/4119
+#EXTINF:-1,DISCOVERY WORLD
+http://tv.cablestream.io:8080/noelia/1234/3081
+#EXTINF:-1,DISCOVERY  CIVILIZACIÓN
+http://tv.cablestream.io:8080/noelia/1234/6020
+#EXTINF:-1,DW LATINOAMERICA
+http://tv.cablestream.io:8080/noelia/1234/2102
+#EXTINF:-1,FILM & ARTS
+http://tv.cablestream.io:8080/noelia/1234/3966
+#EXTINF:-1,H2
+http://tv.cablestream.io:8080/noelia/1234/4005
+#EXTINF:-1,FRANCE 24
+http://tv.cablestream.io:8080/noelia/1234/33357
+#EXTINF:-1,HISPAN TV
+http://tv.cablestream.io:8080/noelia/1234/33481
+#EXTINF:-1,HISTORY
+http://tv.cablestream.io:8080/noelia/1234/3234
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="MyC - NATGEO" tvg-logo="http://www.dreadfullykind.com/wp-content/uploads/2017/05/National-Geographic-Logo-1.jpg",NATGEO
+http://tv.cablestream.io:8080/noelia/1234/4126
+#EXTINF:-1 tvg-id="NatGeoMundo.us" tvg-name="MyC - NATGEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL.png" , NATGEO MUNDO
+http://tv.cablestream.io:8080/noelia/1234/3774
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="MyC - NATGEO WILD" tvg-logo="https://cdn.mitvstatic.com/channels/co_nat-geo-wild_m.png" ,NATGEO WILD
+http://tv.cablestream.io:8080/noelia/1234/3270
+#EXTINF:-1 tvg-id="RTDocEnglish.ru" tvg-name="MyC - RT ESPAÑOL" tvg-logo="https://s3.spbtv.com/rosing-production/34970a702bcb2748f65f_1014x1014c.png" ,RT ESPAÑOL
+http://tv.cablestream.io:8080/noelia/1234/2064
+
+INFANTILES
+
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="INF - BABY FIRST" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Babyfirst-logo.png/230px-Babyfirst-logo.png" ,BABY FIRST
+http://tv.cablestream.io:8080/noelia/1234/2958
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="INF - BABY TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png" ,BABY TV
+http://tv.cablestream.io:8080/noelia/1234/3798
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.pa" tvg-name="INF - BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" ,BOOMERANG
+http://tv.cablestream.io:8080/noelia/1234/3085
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="INF - CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png" ,CARTOON NETWORK
+http://tv.cablestream.io:8080/noelia/1234/3249
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="INF - DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" ,DISCOVERY KIDS
+http://tv.cablestream.io:8080/noelia/1234/3254
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="INF - DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/4004
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="INF - DISNEY JUNIOR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" ,DISNEY JUNIOR
+http://tv.cablestream.io:8080/noelia/1234/3222
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="INF - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1280px-Disney_XD_-_2015_%28Purple%29.svg.png" , DISNEY XD
+http://tv.cablestream.io:8080/noelia/1234/3221
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="INF - NATGEO KIDS" tvg-logo="https://seeklogo.com/images/N/National_Geographic_Kids-logo-DBF8D75F07-seeklogo.com.png" , NATGEO KIDS
+http://tv.cablestream.io:8080/noelia/1234/4144
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="INF - NICK 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Nick_2_Latinoamerica.png" , NICK 2
+http://tv.cablestream.io:8080/noelia/1234/4140
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="INF - NICK JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png",NICK JUNIOR
+http://tv.cablestream.io:8080/noelia/1234/4194
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nicktoons_2014_logo.svg/1280px-Nicktoons_2014_logo.svg.png" ,NICK TOONS
+http://tv.cablestream.io:8080/noelia/1234/3220
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="INF - NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" , NICKELODEON
+http://tv.cablestream.io:8080/noelia/1234/3071
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="INF - TOONCAST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" , TOONCAST
+http://tv.cablestream.io:8080/noelia/1234/3242
+
+CINE
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE - A&E" tvg-logo="http://www.mediafire.com/convkey/7d1d/lpcc5t1n8sp5ynczg.jpg" ,A&E
+http://tv.cablestream.io:8080/noelia/1234/3246
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="CINE - AMC" tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3.png" , AMC
+http://tv.cablestream.io:8080/noelia/1234/4118
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="CINE - AXN" tvg-logo="http://www.mediafire.com/convkey/df46/a57g9naunoz9unazg.jpg" , AXN
+http://tv.cablestream.io:8080/noelia/1234/3248
+#EXTINF:-1 tvg-id="" tvg-name="CINE - DHE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/DHE2017.png" ,DHE
+http://tv.cablestream.io:8080/noelia/1234/24180
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE - CINE LATINO" tvg-logo="http://images.mi.tv/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" , CINE LATINO
+http://tv.cablestream.io:8080/noelia/1234/4136
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINE - CINECANAL" tvg-logo="http://www.mediafire.com/convkey/6706/gz77e06fxqv0ifezg.jpg" , CINECANAL
+http://tv.cablestream.io:8080/noelia/1234/3250
+#EXTINF:-1 tvg-id="CinemaDinamita.co" tvg-name="CINE - CINEMA DINAMITA" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" , CINEMA DINAMITA
+http://tv.cablestream.io:8080/noelia/1234/4142
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CINE - CINEMAX" tvg-logo="http://www.mediafire.com/convkey/c00c/qr3b8ugkko838ggzg.jpg" , CINEMAX
+http://tv.cablestream.io:8080/noelia/1234/3084
+#EXTINF:-1 tvg-id="" tvg-name="CINE - CLARO CINEMA" tvg-logo="https://mark.trademarkia.com/logo-images/claro-sa/claro-cinema-86830508.jpg" ,CLARO CINEMA
+http://tv.cablestream.io:8080/noelia/1234/4145
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - DE PELICULA" tvg-logo="http://www.mediafire.com/convkey/1cb2/e9iq0c5sr2003nezg.jpg" , DE PELICULA
+http://tv.cablestream.io:8080/noelia/1234/2997
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - DE PELICULA PLUS" tvg-logo="http://afiliados.televisa-networks.com/wp-content/uploads/2018/05/televisa-afiliados-canales-de-pelicula-plus.jpg" , DE PELICULA PLUS
+http://tv.cablestream.io:8080/noelia/1234/3239
+#EXTINF:-1 tvg-id="" tvg-name="CINE - EUROPA EUROPA" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" , EUROPA EUROPA
+http://tv.cablestream.io:8080/noelia/1234/33359
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO XTREME" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097973446-HBO-xtreme-pequenio-b.png" ,HBO XTREME
+http://tv.cablestream.io:8080/noelia/1234/44341
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="CINE - FOX CHANNEL" tvg-logo="https://www.entertainmentbox.com/wp-content/uploads/2016/06/WATCH-FOX-TURKEY-ANDROID-TV-BOX-APP-1.png" , FOX CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/4121
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="CINE - FOX LIFE" tvg-logo="http://www.mediafire.com/convkey/90d3/1ajw5r28j1y8m21zg.jpg" , FOX LIFE
+http://tv.cablestream.io:8080/noelia/1234/3203
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="CINE - FOX PREMIUM ACTION" tvg-logo="http://www.mediafire.com/convkey/bd90/jc8b9ocvxowgqxfzg.jpg", FOX PREMIUM ACTION
+http://tv.cablestream.io:8080/noelia/1234/3263
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="CINE - FOX PREMIUM CINEMA" tvg-logo="https://lh3.googleusercontent.com/-pdpApWxvFBw/WiP4EOIialI/AAAAAAAAPHI/tHqK7UKIppIU85FVMDlaYuFG2C-VIfwiQCLcBGAs/h200/fox_cinema.jpg" ,FOX PREMIUM CINEMA
+http://tv.cablestream.io:8080/noelia/1234/3264
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="CINE - FOX PREMIUM CLASSICS" tvg-logo="http://www.mediafire.com/convkey/571b/50vyss5h03dpl0gzg.jpg" , FOX PREMIUM CLASSICS
+http://tv.cablestream.io:8080/noelia/1234/3077
+#EXTINF:-1 tvg-id="FoxComedy.mx" tvg-name="CINE - FOX PREMIUM COMEDY" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-comedy_m.png" ,FOX PREMIUM COMEDY
+http://tv.cablestream.io:8080/noelia/1234/3102
+#EXTINF:-1 tvg-id="FoxFamily.mx" tvg-name="CINE - FOX PREMIUM FAMILY" tvg-logo="https://images.mi.tv/channels/cl_fox-family_m.png" ,FOX PREMIUM FAMILY
+http://tv.cablestream.io:8080/noelia/1234/4032
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="CINE - FOX PREMIUM MOVIES" tvg-logo="http://www.mediafire.com/convkey/d4f7/n9xjx1l5z1j7x0lzg.jpg" ,FOX PREMIUM MOVIES
+http://tv.cablestream.io:8080/noelia/1234/3266
+#EXTINF:-1 tvg-id="FoxSeries.mx" tvg-name="CINE - FOX PREMIUM SERIES." tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" , FOX PREMIUM SERIES.
+http://tv.cablestream.io:8080/noelia/1234/3262
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="CINE - FX" tvg-logo="http://www.mediafire.com/convkey/f17c/gavni9iyf1mclumzg.jpg" ,FX
+http://tv.cablestream.io:8080/noelia/1234/3201
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="CINE - FXM" tvg-logo="https://www.rapidtvnews.com/images/2017/06/fxm-logo-18-september-2017.jpg" ,FXM
+http://tv.cablestream.io:8080/noelia/1234/4009
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="CINE - GOLDEN" tvg-logo="http://www.mediafire.com/convkey/75d1/s98p9219fz77880zg.jpg", GOLDEN
+http://tv.cablestream.io:8080/noelia/1234/3236
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="CINE - GOLDEN EDGE" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" ,GOLDEN EDGE
+http://tv.cablestream.io:8080/noelia/1234/3237
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="CINE - HBO" tvg-logo="http://www.mediafire.com/convkey/6b95/ad52fhlxjxot0rbzg.jpg" ,HBO
+http://tv.cablestream.io:8080/noelia/1234/3199
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CINE - HBO 2" tvg-logo="http://www.mediafire.com/convkey/84f4/6vyp06rkhqfier5zg.jpg" ,HBO 2
+http://tv.cablestream.io:8080/noelia/1234/3198
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP" tvg-logo="https://operadores.hbo-la.tv/v2/img/nav-logos/hbo-pop.png" ,HBO POP
+http://tv.cablestream.io:8080/noelia/1234/47445
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="CINE - HBO PLUS" tvg-logo="http://images.mi.tv/channels/ar_hbo-plus-este_m.png" , HBO PLUS
+http://tv.cablestream.io:8080/noelia/1234/4003
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO MUNDI" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hbomundicolor.png.cc01ec854c23d1498a995a4fc37d22a9.png" , HBO MUNDI
+http://tv.cablestream.io:8080/noelia/1234/44337
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="CINE - HBO FAMILY " tvg-logo="http://images.mi.tv/channels/mx_hbo-family_m.png" , HBO FAMILY 
+http://tv.cablestream.io:8080/noelia/1234/4017
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - HBO SIGNATURE" tvg-logo="http://www.mediafire.com/convkey/2025/bomlvbb964p1p74zg.jpg" , HBO SIGNATURE
+http://tv.cablestream.io:8080/noelia/1234/3197
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="CINE - I-SAT" tvg-logo="http://www.mediafire.com/convkey/1be8/s5csgid3ad6vg3azg.jpg" ,I-SAT
+http://tv.cablestream.io:8080/noelia/1234/3074
+#EXTINF:-1 tvg-id="" tvg-name="CINE - MORBID TV" tvg-logo="https://i.pinimg.com/originals/7d/02/1e/7d021e9fa568cccfc0bcf541df7aec66.jpg" ,MORBID TV
+http://tv.cablestream.io:8080/noelia/1234/33364
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - PANICO TV HD" tvg-logo="http://www.ibw.com.ni/wp-content/uploads/2018/03/panico-300x300.jpg" ,PANICO TV HD
+http://tv.cablestream.io:8080/noelia/1234/7436
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="CINE - PARAMOUNT CHANNEL" tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" ,PARAMOUNT CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/2952
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="CINE - SONY" tvg-logo="http://www.mediafire.com/convkey/aff2/cbeb722so92ybayzg.jpg" , SONY
+http://tv.cablestream.io:8080/noelia/1234/3069
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="CINE - SPACE" tvg-logo="http://www.mediafire.com/convkey/ca09/78ypzdm581locjfzg.jpg" ,SPACE
+http://tv.cablestream.io:8080/noelia/1234/3232
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="CINE - STUDIO UNIVERSAL" tvg-logo="https://cdn.mitvstatic.com/channels/mx_studio-universal_m.png" ,STUDIO UNIVERSAL
+http://tv.cablestream.io:8080/noelia/1234/3229
+#EXTINF:-1 tvg-id="SundanceTV.mx" tvg-name="CINE - SUNDANCE TV" tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/15-sundance.png" ,SUNDANCE TV
+http://tv.cablestream.io:8080/noelia/1234/4101
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="CINE - SYFY" tvg-logo="http://www.pophorror.com/wp-content/uploads/2016/09/syfy_logo_small.jpg" , SYFY
+http://tv.cablestream.io:8080/noelia/1234/3958
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="CINE - TBS" tvg-logo="https://logonoid.com/images/tbs-logo.png" , TBS
+http://tv.cablestream.io:8080/noelia/1234/4011
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="CINE - TCM" tvg-logo="http://www.mediafire.com/convkey/0211/lyj9dwgwygu3l6qzg.jpg" , TCM
+http://tv.cablestream.io:8080/noelia/1234/3065
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="CINE - TNT" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" ,TNT
+http://tv.cablestream.io:8080/noelia/1234/4010
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="CINE - TNT SERIES" tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" , TNT SERIES
+http://tv.cablestream.io:8080/noelia/1234/3218
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="CINE - UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" ,UNIVERSAL CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/3068
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="CINE - WARNER" tvg-logo="http://www.mediafire.com/convkey/1eb6/gbkuhu73ss24b6kzg.jpg" ,WARNER
+http://tv.cablestream.io:8080/noelia/1234/3228
+
+ENTRETENIMIENTO
+
+#EXTINF:-1 tvg-id="" tvg-name="ENT - FOOD NETWORK" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/712H4HqY7EL.png" ,FOOD NETWORK
+http://tv.cablestream.io:8080/noelia/1234/4146
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="ENT -COMEDY CENTRAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" ,COMEDY CENTRAL
+http://tv.cablestream.io:8080/noelia/1234/3241
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="ENT -DISCOVERY TURBO" tvg-logo="http://www.mediafire.com/convkey/cd8f/qlkiabg0k6dc8qvzg.jpg" ,DISCOVERY TURBO
+http://tv.cablestream.io:8080/noelia/1234/3257
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="ENT -E! ENTERTAINMENT" tvg-logo="http://www.mediafire.com/convkey/f110/g9fk4m4a5111oaxzg.jpg" ,E! ENTERTAINMENT
+http://tv.cablestream.io:8080/noelia/1234/3207
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="ENT -EL GOURMET" tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" ,EL GOURMET
+http://tv.cablestream.io:8080/noelia/1234/3206
+#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="ENT -GARAGE TV" tvg-logo="https://pbs.twimg.com/profile_images/433043324698501120/liWhZUAW.jpeg" ,GARAGE TV
+http://tv.cablestream.io:8080/noelia/1234/4016
+#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="ENT - HOLA TV" tvg-logo="http://oyememagazine.com/wp-content/uploads/2017/09/inicio06.jpg" , HOLA TV
+http://tv.cablestream.io:8080/noelia/1234/3075
+#EXTINF:-1 tvg-id="" tvg-name="ENT - DEL SOL TV" tvg-logo="https://www.zcast.cl/wp-content/uploads/2020/04/LOGOCANALDELSOL.jpeg" , DEL SOL TV
+http://tv.cablestream.io:8080/noelia/1234/34603
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="ENT -LIFETIME" tvg-logo="http://www.mediafire.com/convkey/4df9/qdmxhrpyc8y954lzg.jpg" ,LIFETIME
+http://tv.cablestream.io:8080/noelia/1234/3073
+#EXTINF:-1 tvg-id="" tvg-name="ENT - BITME" tvg-logo="" ,BITME
+http://tv.cablestream.io:8080/noelia/1234/47698
+#EXTINF:-1 tvg-id="" tvg-name="ENT - ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" ,ETC
+http://tv.cablestream.io:8080/noelia/1234/49228
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="ENT -GLITZ" tvg-logo="http://www.mediafire.com/convkey/95e5/y7cerfw1pvyplp1zg.jpg" ,GLITZ
+http://tv.cablestream.io:8080/noelia/1234/3238
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="ENT -MAS CHIC" tvg-logo="http://images.mi.tv/channels/sv_mas-chic_m.png" ,MAS CHIC
+http://tv.cablestream.io:8080/noelia/1234/4124
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="ENT -TRU TV" tvg-logo="http://www.mediafire.com/convkey/b06a/pl5hulab678tl9qzg.jpg" ,TRU TV
+http://tv.cablestream.io:8080/noelia/1234/3231
+#EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="ENT -WOBI" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" ,WOBI
+http://tv.cablestream.io:8080/noelia/1234/4134
+
+DEPORTES
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - BEIN SPORTS Ñ HD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" , BEIN SPORTS HD
+http://tv.cablestream.io:8080/noelia/1234/3747
+#EXTINF:-1 tvg-id="" tvg-name="LD - BEIN SPORTS SD" tvg-logo="http://cdn.cablefax.com/wp-content/uploads/2014/05/Bein-Sports-SPA-logo-color-hires-1.jpg" ,BEIN SPORTS
+http://tv.cablestream.io:8080/noelia/1234/43187
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS HD" tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png",DIRECTV SPORTS HD
+http://tv.cablestream.io:8080/noelia/1234/7863
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS" tvg-logo="https://www.reporterosasociados.com.co/wp/wp-content/uploads/2019/01/DIRECTV-Sports.png" ,DIRECTV SPORTS
+http://tv.cablestream.io:8080/noelia/1234/33512
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" ,DIRECTV SPORTS 2 HD
+http://tv.cablestream.io:8080/noelia/1234/32882
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png/1200px-DirecTV_Sports_2_Latin_America_%282018%29.png" ,DIRECTV SPORTS 2
+http://tv.cablestream.io:8080/noelia/1234/32881
+#EXTINF:-1 tvg-id="" tvg-name="LD - DIRECTV SPORTS PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png" ,DIRECTV SPORTS PLUS HD
+http://tv.cablestream.io:8080/noelia/1234/27879
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="LD - DIRECTV SPORTS PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png",DIRECTV SPORTS PLUS
+http://tv.cablestream.io:8080/noelia/1234/8520
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="LD - FOX DEPORTES USA HD" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585-480x480.jpg",FOX DEPORTES USA HD
+http://tv.cablestream.io:8080/noelia/1234/3753
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 SUR HD" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" ,FOX SPORTS 1HD
+http://tv.cablestream.io:8080/noelia/1234/3612
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 1 SUR" tvg-logo="https://ya-webdesign.com/images/fox-sports-1-logo-png-1.png" group-title=",FOX SPORTS 1 SUR
+http://tv.cablestream.io:8080/noelia/1234/18580
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-name="LD - FOX SPORTS 2 SUR HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" ,LD - FOX SPORTS 2HD
+http://tv.cablestream.io:8080/noelia/1234/16139
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 2 SUR SD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5c/Fox_Sports_2_HD_logo.png" ,FOX SPORTS 2
+http://tv.cablestream.io:8080/noelia/1234/42456
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LD - FOX SPORTS 3 SUR HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png",FOX SPORTS 3HD
+http://tv.cablestream.io:8080/noelia/1234/33475
+#EXTINF:-1 tvg-id="" tvg-name="LD - FOX SPORTS 3 SUR SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c1/Fox_Sports_3_HD-0.png" ,FOX SPORTS 3
+http://tv.cablestream.io:8080/noelia/1234/43640
+http://tv.cablestream.io:8080/noelia/1234/4008
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="LD - ESPN DEPORTES HD" tvg-logo="https://futbol.radioformula.com.mx/wp-content/uploads/2019/06/Logo-ESPN-1.png",ESPN DEPORTES HD
+http://tv.cablestream.io:8080/noelia/1234/3613
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR HD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" ,ESPN 1HD
+http://tv.cablestream.io:8080/noelia/1234/3614
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="LD - ESPN 1 SUR SD" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" ,ESPN 1
+http://tv.cablestream.io:8080/noelia/1234/33469
+XTINF:-1 tvg-id="" tvg-name="LD - ESPN 2 SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" ,ESPN 2HD
+http://tv.cablestream.io:8080/noelia/1234/43637
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="LD - ESPN 2 SUR SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn2.png" ,ESPN 2 
+http://tv.cablestream.io:8080/noelia/1234/3616
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN 3 SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" ,ESPN 3 HD
+http://tv.cablestream.io:8080/noelia/1234/3615
+#EXTINF:-1 tvg-id="" tvg-name="LD - ESPN 3 SUR SD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn3.png" ,ESPN 3
+http://tv.cablestream.io:8080/noelia/1234/43639
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PLUS SUR FHD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" ,ESPN PLUS FHD
+http://tv.cablestream.io:8080/noelia/1234/7940
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="LD - ESPN PLUS SUR HD" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" ,ESPN PLUS SUR HD
+http://tv.cablestream.io:8080/noelia/1234/43638
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN MX" tvg-logo="http://e.espncdn.com/2003/photos2017/0331/ESPN-logo_220.jpg" ,ESPN MX
+http://tv.cablestream.io:8080/noelia/1234/3178
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="LD - ESPN 2 MX" tvg-logo="http://www.mediafire.com/convkey/7617/64eaua60jei8k3pzg.jpg" ,ESPN 2 MX
+http://tv.cablestream.io:8080/noelia/1234/3258
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="LD - ESPN 3 MX" tvg-logo="http://www.mediafire.com/convkey/d823/mp5467d3i5iq4n4zg.jpg" ,ESPN 3 MX
+http://tv.cablestream.io:8080/noelia/1234/3260
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="LD - ESPN PLUS MX" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/espn-mas.png" ,ESPN PLUS MX
+http://tv.cablestream.io:8080/noelia/1234/4120
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" ,UNIVISION TUDN USA
+http://tv.cablestream.io:8080/noelia/1234/3751
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION DEPORTES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg",UNIVISION DEPORTES FHD
+http://tv.cablestream.io:8080/noelia/1234/3962
+#EXTINF:-1 tvg-id="UnivisionDeportes.us" tvg-name="LD - UNIVISION TUDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" ,UNIVISION TUDN HD
+http://tv.cablestream.io:8080/noelia/1234/4117
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="LD - TUDN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TUDN.jpg" ,TUDN FHD
+http://tv.cablestream.io:8080/noelia/1234/3963
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS HD" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" ,TYC SPORTS HD
+http://tv.cablestream.io:8080/noelia/1234/3759
+#EXTINF:-1 tvg-id="TYCSports.ar" tvg-name="LD - TYC SPORTS" tvg-logo="https://pbs.twimg.com/media/D_XydwSW4AAjU6l.jpg" ,TYC SPORTS
+http://tv.cablestream.io:8080/noelia/1234/8247
+#EXTINF:-1 tvg-id="" tvg-name="LD - TIGO SPORTS HD (PARAGUAY)" tvg-logo="https://www.tigosports.com.bo/sites/default/files/tigosports-app-icon_0.png" ,TIGO SPORTS HD 
+http://tv.cablestream.io:8080/noelia/1234/29832
+#EXTINF:-1 tvg-id="GolTVSpanish.us" tvg-name="LD - GOL TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/GOLTV_Two.png" ,GOL TV HD
+http://tv.cablestream.io:8080/noelia/1234/3755
+#EXTINF:-1 tvg-id="ClaroSports.co" tvg-name="LD - CLARO SPORTS HD" tvg-logo="https://pbs.twimg.com/profile_images/814993132488101889/73_HERjX_400x400.jpg" ,CLARO SPORTS HD
+http://tv.cablestream.io:8080/noelia/1234/12011
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC  NETWORK FHD" tvg-logo="https://www.sportstravelmagazine.com/wp-content/uploads/2017/03/UFC-LOGO.png" ,UFC  NETWORK FHD
+http://tv.cablestream.io:8080/noelia/1234/4082
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - UFC FIGHT LATINOAMERICA" tvg-logo="http://www.acessoriosparaautos.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/l/pl5288_1_5.jpg" , UFC FIGHT LATINOAMERICA
+http://tv.cablestream.io:8080/noelia/1234/3421
+#EXTINF:-1 tvg-id="" tvg-name="LD - GOLF LATIN AMERICA" tvg-logo="https://images.mediapro.es/imagina_us/custom/block/Golf_Channel_Logo_web2.png" ,GOLF LATIN AMERICA
+http://tv.cablestream.io:8080/noelia/1234/33363
+#EXTINF:-1 tvg-id="" tvg-name="LD - LATIN AMERICAN SPORTS" tvg-logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" ,LATIN AMERICAN SPORTS
+http://tv.cablestream.io:8080/noelia/1234/33356
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="LD - PX SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1120358282022084609/-SIEjTgc_400x400.png" ,PX SPORTS
+http://tv.cablestream.io:8080/noelia/1234/4128
+#EXTINF:-1 tvg-id="" tvg-name="LD - TVC DEPORTES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e1/TVC_Deportes_%282016-_%29.png" ,TVC DEPORTES
+http://tv.cablestream.io:8080/noelia/1234/4139
+#EXTINF:-1 tvg-id="" tvg-name="LD - UFC LIVE HD" tvg-logo="https://p-img.movetv.com/cms/images/6fa62e4f1691da2fbf96eb96bfc6dfda5dfc0ba4.jpg" ,UFC LIVE HD
+http://tv.cablestream.io:8080/noelia/1234/53372
+#EXTINF:-1 tvg-id="" tvg-name="LD - AYM SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/574737723/logook_400x400.jpg" ,AYM SPORTS
+http://tv.cablestream.io:8080/noelia/1234/3089
+
+EVENTOS ESPECIALES
+
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 01 [NFL SUPER BOWL EN VIVO]" tvg-logo="https://pressboxonline.com/wp-content/uploads/2021/02/super-bowl-lv-logo-800x445.jpg" ,[NFL SUPER BOWL EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/13062
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 02 [NFL SUPER BOWL EN VIVO]" tvg-logo="https://pressboxonline.com/wp-content/uploads/2021/02/super-bowl-lv-logo-800x445.jpg" ,[NFL SUPER BOWL EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/16143
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 03 [NFL SUPER BOWL EN VIVO]" tvg-logo="https://pressboxonline.com/wp-content/uploads/2021/02/super-bowl-lv-logo-800x445.jpg" ,[NFL SUPER BOWL EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/358
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 04 [NFL SUPER BOWL EN VIVO]" tvg-logo="https://pressboxonline.com/wp-content/uploads/2021/02/super-bowl-lv-logo-800x445.jpg" ,[NFL SUPER BOWL EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/16080
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 05 [ EN VIVO]" tvg-logo="https://pressboxonline.com/wp-content/uploads/2021/02/super-bowl-lv-logo-800x445.jpg" ,NTV-05 [ EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/16410
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 06  [ EN VIVO]" tvg-logo="https://depor.com/resizer/gzIELKHtYEKDZL5TI1PY6pm80VQ=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NDD6AYD22VA2NH2O3J2YXJJ4EQ.jpg",NTV-06  [ EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/17180
+#EXTINF:-1 tvg-id="" tvg-name="NTV - 07  [ EN VIVO]" tvg-logo="https://images.app.goo.gl/Y2kYxzt8arVnhwbG7" ,NTV-07  [ EN VIVO]
+http://tv.cablestream.io:8080/noelia/1234/33479
+
+CINE PREMIUM
+
+#EXTINF:-1 tvg-id="" tvg-name="CINP - INDIE PLEX" tvg-logo="https://i.ibb.co/47nJH8g/indie-plex.jpg" ,INDIE PLEX
+http://tv.cablestream.io:8080/noelia/1234/8142
+#EXTINF:-1 tvg-id="" tvg-name="CINP - MORE MAX HD" tvg-logo="https://i.ibb.co/72fJbm6/more-max-hd.jpg" ,MORE MAX HD
+http://tv.cablestream.io:8080/noelia/1234/8143
+#EXTINF:-1 tvg-id="" tvg-name="CINP - MOVIE MAX" tvg-logo="https://i.ibb.co/Pcz3bts/movie-max.jpg" ,MOVIE MAX
+http://tv.cablestream.io:8080/noelia/1234/8144
+#EXTINF:-1 tvg-id="" tvg-name="CINP - MOVIEPLEX" tvg-logo="https://i.ibb.co/6bkWMhv/movie-plex.jpg" ,MOVIEPLEX
+http://tv.cablestream.io:8080/noelia/1234/8145
+#EXTINF:-1 tvg-id="" tvg-name="CINP - OUTERMAX HD" tvg-logo="https://i.ibb.co/58nBFy4/outer-max-HD.jpg" , OUTERMAX HD
+http://tv.cablestream.io:8080/noelia/1234/8146
+#EXTINF:-1 tvg-id="" tvg-name="CINP - RETROPLEX HD" tvg-logo="https://i.ibb.co/tsjGHNV/retroplex-hd.jpg" , RETROPLEX HD
+http://tv.cablestream.io:8080/noelia/1234/8147
+#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOTIME WEST HD" tvg-logo="https://i.ibb.co/z7YWytV/showtime-west.jpg" ,SHOTIME WEST HD
+http://tv.cablestream.io:8080/noelia/1234/8141
+#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOW TIME HD" tvg-logo="https://i.ibb.co/19tsb4T/showtime.jpg" , SHOW TIME HD
+http://tv.cablestream.io:8080/noelia/1234/8138
+#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME BEYOND HD" tvg-logo="https://i.ibb.co/PxNVMS5/showtime-beyond.jpg" ,SHOWTIME BEYOND HD
+http://tv.cablestream.io:8080/noelia/1234/8139
+#EXTINF:-1 tvg-id="" tvg-name="CINP - SHOWTIME EAST" tvg-logo="https://i.ibb.co/JBMWmMW/showtime-east.jpg" ,SHOWTIME EAST
+http://tv.cablestream.io:8080/noelia/1234/8140
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ CINEMA HD" tvg-logo="https://i.ibb.co/znT33wK/starz-cinema.jpg",STARZ CINEMA HD
+http://tv.cablestream.io:8080/noelia/1234/8136
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ COMEDY HD" tvg-logo="https://i.ibb.co/j3JdKrP/starz-comedy.jpg" , STARZ COMEDY HD
+http://tv.cablestream.io:8080/noelia/1234/8135
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE ACTION HD" tvg-logo="https://i.ibb.co/cDfgh1D/starz-encore-action.jpg" , STARZ ENCORE ACTION HD
+http://tv.cablestream.io:8080/noelia/1234/8128
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE BLACK" tvg-logo="https://i.ibb.co/7tX08nM/starz-encore-black.jpg" ,STARZ ENCORE BLACK
+http://tv.cablestream.io:8080/noelia/1234/8127
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE FAMILY HD" tvg-logo="https://i.ibb.co/ZVt4G6k/starz-encore-fam.jpg" ,STARZ ENCORE FAMILY HD
+http://tv.cablestream.io:8080/noelia/1234/8129
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE HD" tvg-logo="https://i.ibb.co/44Nw86c/starz-encore.jpg" ,STARZ ENCORE HD
+http://tv.cablestream.io:8080/noelia/1234/8126
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ ENCORE SUSPENSE" tvg-logo="https://i.ibb.co/CQDmSg1/starz-encore-suspense.jpg" ,STARZ ENCORE SUSPENSE
+http://tv.cablestream.io:8080/noelia/1234/8130
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ FAMILY HD" tvg-logo="https://i.ibb.co/ZVt4G6k/starz-encore-fam.jpg" ,STARZ FAMILY HD
+http://tv.cablestream.io:8080/noelia/1234/8131
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ HD" tvg-logo="https://i.ibb.co/hKFs65Y/starz-hd.jpg" ,STARZ HD
+http://tv.cablestream.io:8080/noelia/1234/8132
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ IN BLACK" tvg-logo="https://i.ibb.co/7jtDKMr/starz-in-black.jpg" ,STARZ IN BLACK
+http://tv.cablestream.io:8080/noelia/1234/8137
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ KIDS & FAMILY" tvg-logo="https://i.ibb.co/0F76c50/starz-fam.jpg" ,STARZ KIDS & FAMILY
+http://tv.cablestream.io:8080/noelia/1234/8133
+#EXTINF:-1 tvg-id="" tvg-name="CINP - STARZ WESTERN HD" tvg-logo="https://i.ibb.co/k5ZHTL9/starz-encore-western.jpg", STARZ WESTERN HD
+http://tv.cablestream.io:8080/noelia/1234/8134
+
+FULL HD
+
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="FHD - A&E HD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/06/ae-featured-image.jpg?w=446&h=299&crop=1" ,A&E HD
+http://tv.cablestream.io:8080/noelia/1234/4037
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="FHD - AMC" tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3.png" ,AMC
+http://tv.cablestream.io:8080/noelia/1234/4085
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="FHD - ANIMAL PLANET" tvg-logo="https://pmcdeadline2.files.wordpress.com/2012/03/animal-planet-logo__120322141108.jpg?w=600" ,ANIMAL PLANET
+http://tv.cablestream.io:8080/noelia/1234/4067
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="FHD - ANTENA 3 INT." tvg-logo="http://www.mediafire.com/convkey/b2b8/bb2q3qochn7rc0uzg.jpg" , ANTENA 3 INT.
+http://tv.cablestream.io:8080/noelia/1234/3139
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="FHD - AXN HD" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" ,AXN HD
+http://tv.cablestream.io:8080/noelia/1234/4038
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="FHD - BABY FIRST" tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/baby-first-tv-post.jpg" , BABY FIRST
+http://tv.cablestream.io:8080/noelia/1234/4088
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - BABY TV HQ" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/BABY-540x370.jpg" ,BABY TV HQ
+http://tv.cablestream.io:8080/noelia/1234/4116
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="FHD - BLOOMBERG" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2011/10/Bloomberg-Television.jpg" ,BLOOMBERG
+http://tv.cablestream.io:8080/noelia/1234/4089
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - BOOMERANG" tvg-logo="http://images.mi.tv/channels/ar_boomerang-cartoon_m.png" ,BOOMERANG
+http://tv.cablestream.io:8080/noelia/1234/4061
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="FHD - CARTOON NETWORK" tvg-logo="http://www.tallon4.com/wp-content/uploads/2013/06/cartoon-network.jpg" ,CARTOON NETWORK
+http://tv.cablestream.io:8080/noelia/1234/4063
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="FHD - CINECANAL" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png" ,CINECANAL
+http://tv.cablestream.io:8080/noelia/1234/4068
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="FHD - CINEMAX" tvg-logo="http://images.mi.tv/channels/mx_cinemax_m.png" ,CINEMAX
+http://tv.cablestream.io:8080/noelia/1234/4110
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="FHD - COMEDY CENTRAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png",COMEDY CENTRAL
+http://tv.cablestream.io:8080/noelia/1234/4039
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="FHD - DISCOVERY CHANNEL" tvg-logo="https://i.ytimg.com/vi/926Jv-sjz54/maxresdefault.jpg" ,DISCOVERY CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/4069
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="FHD - DISCOVERY HOME & HEALTH" tvg-logo="http://www.teleaire.com/wp-content/uploads/2013/01/HomeandHelth01.jpg" ,DISCOVERY HOME & HEALTH
+http://tv.cablestream.io:8080/noelia/1234/4070
+#EXTINF:-1 tvg-id="" tvg-name="FHD - DISCOVERY ID" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/Investigation_Discovery_logo_2012.jpg.300x300_q85.jpg" , DISCOVERY ID
+http://tv.cablestream.io:8080/noelia/1234/3600
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="FHD - DISCOVERY KIDS" tvg-logo="http://www.todotvnews.com/ttvnews/2017/04/resize1_discokids20.jpg" ,DISCOVERY KIDS
+http://tv.cablestream.io:8080/noelia/1234/4072
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="FHD - DISCOVERY THEATER" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" ,DISCOVERY THEATER
+http://tv.cablestream.io:8080/noelia/1234/4073
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.pa" tvg-name="FHD - DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,DISCOVERY TURBO
+http://tv.cablestream.io:8080/noelia/1234/4075
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="FHD - DISCOVERY WORLD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYl00Q85p0nswFcytwSwKBhLZqJTjMQJk9S6JD31OmTNHnmLLbbA" ,DISCOVERY WORLD
+http://tv.cablestream.io:8080/noelia/1234/4076
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="FHD - DISNEY JR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" ,DISNEY JR
+http://tv.cablestream.io:8080/noelia/1234/4111
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="FHD - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" ,DISNEY XD
+http://tv.cablestream.io:8080/noelia/1234/4102
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="FHD - DISTRITO COMEDIA" tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" , DISTRITO COMEDIA
+http://tv.cablestream.io:8080/noelia/1234/4040
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="FHD - E! ENTERTAINMENT" tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/E-Entertainment-Television-logo-1990s.png" ,E! ENTERTAINMENT
+http://tv.cablestream.io:8080/noelia/1234/4041
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="FHD - EL GOURMET" tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" ,EL GOURMET
+http://tv.cablestream.io:8080/noelia/1234/4042
+#EXTINF:-1 tvg-id="FoodNetwork.pa" tvg-name="FHD - FOOD NETWORK" tvg-logo="http://food.fnr.sndimg.com/content/dam/images/food/unsized/2013/1/4/0/fnd_FN-New-Logo_s4x3_lead.jpg" ,FOOD NETWORK
+http://tv.cablestream.io:8080/noelia/1234/4057
+#EXTINF:-1 tvg-id="Fox.mx" tvg-name="FHD - FOX HD" tvg-logo="http://www.elespectador.com/sites/default/files/b2b872b67aceb067a12d2611b00592ae.jpg" ,FOX HD
+http://tv.cablestream.io:8080/noelia/1234/4022
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FHD - FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" ,FOX LIFE HD
+http://tv.cablestream.io:8080/noelia/1234/4043
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="FHD - FOX PREMIUM ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-action_m.png" , FOX PREMIUM ACTION
+http://tv.cablestream.io:8080/noelia/1234/4019
+#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM CINEMA" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-cinema_m.png" ,FOX PREMIUM CINEMA
+http://tv.cablestream.io:8080/noelia/1234/8238
+#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM CLASSICS" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-classics_m.png" ,FOX PREMIUM CLASSICS
+http://tv.cablestream.io:8080/noelia/1234/8237
+#EXTINF:-1 tvg-id="" tvg-name="FHD - FOX PREMIUM COMEDY" tvg-logo="http://images.mi.tv/channels/cl_fox-premium-comedy_m.png" ,FOX PREMIUM COMEDY
+http://tv.cablestream.io:8080/noelia/1234/8234
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - FOX PREMIUM FAMILY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" ,FOX PREMIUM FAMILY
+http://tv.cablestream.io:8080/noelia/1234/4084
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FHD - FOX PREMIUM MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-movies_m.png" ,FOX PREMIUM MOVIES
+http://tv.cablestream.io:8080/noelia/1234/4023
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - FOX PREMIUM SERIES" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1.png" , FOX PREMIUM SERIES
+http://tv.cablestream.io:8080/noelia/1234/4020
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FHD - FX HD" tvg-logo="http://images.mi.tv/channels/ar_fx_m.png" , FX HD
+http://tv.cablestream.io:8080/noelia/1234/4044
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="FHD - GLITZ" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042013/untitled-1_146.png?itok=VIMM7ikd" , GLITZ
+http://tv.cablestream.io:8080/noelia/1234/4045
+#EXTINF:-1 tvg-id="" tvg-name="FHD - GOLDEN PLUS" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" , GOLDEN PLUS
+http://tv.cablestream.io:8080/noelia/1234/8255
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="FHD - GOLDEN PREMIERE" tvg-logo="http://images.mi.tv/channels/co_golden-premier-hd_m.png" , GOLDEN PREMIERE
+http://tv.cablestream.io:8080/noelia/1234/4091
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="FHD - HBO 2" tvg-logo="http://images.mi.tv/channels/cl_hbo-2_m.png" ,HBO 2
+http://tv.cablestream.io:8080/noelia/1234/4095
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="FHD - HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/HBO_HD.png" , HBO HD
+http://tv.cablestream.io:8080/noelia/1234/4112
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="FHD - HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" ,HBO PLUS
+http://tv.cablestream.io:8080/noelia/1234/4109
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" , HBO FAMILY
+http://tv.cablestream.io:8080/noelia/1234/3211
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="FHD - HISTORY" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/08/history-logo.jpg" ,HISTORY
+http://tv.cablestream.io:8080/noelia/1234/4093
+#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="FHD - HOLA TV" tvg-logo="http://www.palmkids.es/wp-content/uploads/HOLA.jpg" , HOLA TV
+http://tv.cablestream.io:8080/noelia/1234/4046
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="FHD - I - SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" , I - SAT
+http://tv.cablestream.io:8080/noelia/1234/4098
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="FHD - MAS CHIC" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/07/LOGO-MASCHIC-TXT-VIOLETA-copia.png" ,MAS CHIC
+http://tv.cablestream.io:8080/noelia/1234/4047
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="FHD - HBO XTREME" tvg-logo="https://forounivers.com/uploads/monthly_2020_02/large.hboextremecolor.png.bad67a7db5312c77f975cf2cf9b889cb.png" , HBO XTREME
+http://tv.cablestream.io:8080/noelia/1234/8226
+#EXTINF:-1 tvg-id="" tvg-name="FHD - HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" , HBO POP
+http://tv.cablestream.io:8080/noelia/1234/8246
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="FHD - MTV" tvg-logo="https://4.bp.blogspot.com/-oJ-85oy_wV4/V8hZRwfKObI/AAAAAAAAJPo/SWPN1bCWe0o-hRSUk1nJazCeSMkm_B6zwCLcB/s1600/logo-mtv-hd.png" , MTV
+http://tv.cablestream.io:8080/noelia/1234/4083
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="FHD - MTV LIVE" tvg-logo="http://www.billboard.com/files/styles/article_main_image/public/media/MTV-Live-Logo.jpg" , MTV LIVE
+http://tv.cablestream.io:8080/noelia/1234/4096
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="FHD - NAT GEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nat_Geo_HD_Logo.svg/2000px-Nat_Geo_HD_Logo.svg.png" ,NAT GEO
+http://tv.cablestream.io:8080/noelia/1234/4097
+#EXTINF:-1 tvg-id="NatGeoKids.mx" tvg-name="FHD - NAT GEO KIDS" tvg-logo="http://touristmeetstraveler.com/wp-content/uploads/National_Geographic_Kids.jpg" ,NAT GEO KIDS
+http://tv.cablestream.io:8080/noelia/1234/4078
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="FHD - NAT GEO WILD" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png?w=605" ,NAT GEO WILD
+http://tv.cablestream.io:8080/noelia/1234/4079
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="FHD - NICK 2" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/a/ac/Nick_Jr_2_old.png/revision/latest?cb=20100518162006" , NICK 2
+http://tv.cablestream.io:8080/noelia/1234/4064
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="FHD - NICK JR" tvg-logo="http://www.mediafire.com/convkey/ec9d/msty2teq2prq8kvzg.jpg" , NICK JR
+http://tv.cablestream.io:8080/noelia/1234/3187
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="FHD - NICKELODEON" tvg-logo="https://ugc.kn3.net/i/origin/http://images.bwwstatic.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" , NICKELODEON
+http://tv.cablestream.io:8080/noelia/1234/4058
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="FHD - PARAMOUNT" tvg-logo="https://images.mi.tv/channels/cl_paramount-channel-hd_m.png" ,PARAMOUNT
+http://tv.cablestream.io:8080/noelia/1234/4065
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="FHD - SONY" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0055592.png" ,SONY
+http://tv.cablestream.io:8080/noelia/1234/4048
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="FHD - SPACE HD" tvg-logo="http://www.cable10.com/imagenes/programacion/canales_0013s_0011_Layer%2039.jpg" ,SPACE HD
+http://tv.cablestream.io:8080/noelia/1234/4099
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="FHD - STUDIO UNIVERSAL" tvg-logo="http://studiouniversal.wiperagency.com/uploads/product/dcd0513fc9513c710f9cab0e0097abfb4deb340a.jpg" ,STUDIO UNIVERSAL
+http://tv.cablestream.io:8080/noelia/1234/4100
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="FHD - SYFY" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/090707syfy_logo1.jpg.300x300_q85.jpg" ,SYFY
+http://tv.cablestream.io:8080/noelia/1234/4049
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="FHD - TCM HD" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" ,TCM HD
+http://tv.cablestream.io:8080/noelia/1234/4106
+#EXTINF:-1 tvg-id="" tvg-name="FHD - TLC" tvg-logo="http://images.mi.tv/channels/ar_discovery-tlc_m.png" , TLC
+http://tv.cablestream.io:8080/noelia/1234/4074
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="FHD - TNT HD" tvg-logo="http://fanboynation.com/wp-content/uploads/2015/04/TNT-Logo.jpg" , TNT HD
+http://tv.cablestream.io:8080/noelia/1234/4103
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="FHD - TNT SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES
+http://tv.cablestream.io:8080/noelia/1234/4050
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="FHD - TOONCAST" tvg-logo="http://tvisual.org/wp-content/uploads/2011/01/trutv-logo.gif",TOONCAST
+http://tv.cablestream.io:8080/noelia/1234/4051
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="FHD - UNIVERSAL CHANNEL" tvg-logo="https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/31/uktv-universal-channel-logo.jpg" ,UNIVERSAL CHANNEL
+http://tv.cablestream.io:8080/noelia/1234/4054
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="FHD - WARNER" tvg-logo="http://images.mi.tv/channels/ar_warner-channel_m.png" ,WARNER
+http://tv.cablestream.io:8080/noelia/1234/4053
+#EXTINF:-1 tvg-id="" tvg-name="FHD - WOBI TV" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" , WOBI TV
+
+NBA
+
+http://tv.cablestream.io:8080/noelia/1234/4107
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA - NBA TV FHD" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" ,NBA TV FHD
+http://tv.cablestream.io:8080/noelia/1234/3964
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA - NBA TV" tvg-logo="https://pbs.twimg.com/profile_images/883447001647656961/0Ykmk4ep_400x400.jpg" ,NBA TV
+http://tv.cablestream.io:8080/noelia/1234/3710
+#EXTINF:-1 tvg-id="" tvg-name="LMP - CHARROS DE JALISCO " tvg-logo="https://s3.amazonaws.com/boletomovil/charros/equipos/674.png" ,CHARROS DE JALISCO 
+http://tv.cablestream.io:8080/noelia/1234/18781
+#EXTINF:-1 tvg-id="" tvg-name="NBA - ATLANTA HAWKS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" ,ATLANTA HAWKS
+http://tv.cablestream.io:8080/noelia/1234/18590
+#EXTINF:-1 tvg-id="" tvg-name="NFL - BALTIMORE RAVENS" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/bal.png" ,BALTIMORE RAVENS
+http://tv.cablestream.io:8080/noelia/1234/18540
+#EXTINF:-1 tvg-id="" tvg-name="NFL - RED ZONE" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2018/09/nfl_red_zone_logo-620x350.jpg" ,RED ZONE
+http://tv.cablestream.io:8080/noelia/1234/18589
+#EXTINF:-1 tvg-id="" tvg-name="NBA - CHICAGO BULLS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" ,CHICAGO BULLS
+http://tv.cablestream.io:8080/noelia/1234/18591
+#EXTINF:-1 tvg-id="" tvg-name="NFL - SAN FRANCISCO 49 ERS" tvg-logo="http://loodibee.com/wp-content/uploads/nfl-san-francisco-49ers-team-logo-2.png" ,SAN FRANCISCO 49 ERS
+http://tv.cablestream.io:8080/noelia/1234/3352
+#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW YORK GIANTS" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyg.png" ,NEW YORK GIANTS
+http://tv.cablestream.io:8080/noelia/1234/18581
+#EXTINF:-1 tvg-id="" tvg-name="NFL - MINNESOTA VIKINGS" tvg-logo="https://images.homedepot-static.com/productImages/efaff9b6-29bc-49bc-a85a-459685cb2723/svn/team-adventure-furniture-wall-signs-n0843-min-64_600.jpg" ,MINNESOTA VIKINGS
+http://tv.cablestream.io:8080/noelia/1234/18552
+#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW ORLEANS SAINTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/New_Orleans_Saints_logo.svg/800px-New_Orleans_Saints_logo.svg.png" , NEW ORLEANS SAINTS
+http://tv.cablestream.io:8080/noelia/1234/18562
+#EXTINF:-1 tvg-id="" tvg-name="NFL - HOUSTON TEXANS" tvg-logo="https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fteams%2Fhouston-texans_416x416.jpg" , HOUSTON TEXANS
+http://tv.cablestream.io:8080/noelia/1234/3350
+#EXTINF:-1 tvg-id="" tvg-name="NFL - INDIANAPOLIS COLTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Indianapolis_Colts_logo.svg/160px-Indianapolis_Colts_logo.svg.png" , INDIANAPOLIS COLTS
+http://tv.cablestream.io:8080/noelia/1234/18551
+#EXTINF:-1 tvg-id="" tvg-name="NBA - LOS ANGELES LAKERS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" ,LOS ANGELES LAKERS
+http://tv.cablestream.io:8080/noelia/1234/18549
+#EXTINF:-1 tvg-id="" tvg-name="NFL - LOS ANGELES RAMS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Los_Angeles_Rams_wordmark.svg/1200px-Los_Angeles_Rams_wordmark.svg.png" , LOS ANGELES RAMS
+http://tv.cablestream.io:8080/noelia/1234/18548
+#EXTINF:-1 tvg-id="" tvg-name="NFL - MIAMI DOLPHINS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" ,MIAMI DOLPHINS
+http://tv.cablestream.io:8080/noelia/1234/18547
+#EXTINF:-1 tvg-id="" tvg-name="NFL - LOS ANGELES CHARGERS" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/lac.png" ,LOS ANGELES CHARGERS
+http://tv.cablestream.io:8080/noelia/1234/18546
+#EXTINF:-1 tvg-id="" tvg-name="NFL - OAKLAND RAIDERS" tvg-logo="https://images.homedepot-static.com/productImages/c9123b60-dfbb-4171-a1db-f018f6b4202e/svn/team-adventure-furniture-wall-signs-n0843-oak-64_1000.jpg" , OAKLAND RAIDERS
+http://tv.cablestream.io:8080/noelia/1234/18584
+#EXTINF:-1 tvg-id="" tvg-name="NFL - JACKSONVILLE JAGUARS" tvg-logo="https://media.tacdn.com/media/attractions-splice-spp-674x446/06/70/66/d1.jpg" ,JACKSONVILLE JAGUARS
+http://tv.cablestream.io:8080/noelia/1234/18545
+#EXTINF:-1 tvg-id="" tvg-name="NFL - PITTSBURGH STEELERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pittsburgh_Steelers_logo.svg/768px-Pittsburgh_Steelers_logo.svg.png" ,PITTSBURGH STEELERS
+http://tv.cablestream.io:8080/noelia/1234/18586
+#EXTINF:-1 tvg-id="" tvg-name="NFL - WASHINGTON REDSKINS" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/07/Washington-Redskins-logo-650x366.png" , WASHINGTON REDSKINS
+http://tv.cablestream.io:8080/noelia/1234/18588
+#EXTINF:-1 tvg-id="" tvg-name="NFL - ARIZONA CARDINALS" tvg-logo="https://www.pngitem.com/pimgs/m/135-1352195_transparent-cardinals-logo-png-saginaw-valley-state-university.png" , ARIZONA CARDINALS
+http://tv.cablestream.io:8080/noelia/1234/17187
+#EXTINF:-1 tvg-id="" tvg-name="NFL - PHILADELPHIA EAGLES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7188JelZCfL._AC_SL1500_.jpg" , PHILADELPHIA EAGLES
+http://tv.cablestream.io:8080/noelia/1234/18585
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CHICAGO BEARS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chicago_Bears_logo.svg/1280px-Chicago_Bears_logo.svg.png" ,CHICAGO BEARS
+http://tv.cablestream.io:8080/noelia/1234/18544
+#EXTINF:-1 tvg-id="" tvg-name="NFL - CAROLINA PANTHERS" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/car.png" ,CAROLINA PANTHERS
+http://tv.cablestream.io:8080/noelia/1234/18543
+#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW YORK JETS" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fnfl%2F500%2Fnyj.png" , NEW YORK JETS
+http://tv.cablestream.io:8080/noelia/1234/18583
+#EXTINF:-1 tvg-id="" tvg-name="NBA - TORONTO RAPTORS" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" ,TORONTO RAPTORS
+http://tv.cablestream.io:8080/noelia/1234/18542
+#EXTINF:-1 tvg-id="" tvg-name="NFL - BUFFALO BILLS" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/buffalo_bills.png" , BUFFALO BILLS
+http://tv.cablestream.io:8080/noelia/1234/18541
+#EXTINF:-1 tvg-id="" tvg-name="NFL - NEW ENGLAND PATRIOTS" tvg-logo="https://m.media-amazon.com/images/I/61MZoHAheaL._AC_SS350_.jpg" ,NEW ENGLAND PATRIOTS
+http://tv.cablestream.io:8080/noelia/1234/18561
+
